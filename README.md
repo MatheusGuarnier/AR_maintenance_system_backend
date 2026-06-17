@@ -1,5 +1,3 @@
-markdown
-
 # AR-BACKEND
 
 This repository contains the backend service developed for the *AR-Enhanced Maintenance Support System* project.  
@@ -9,6 +7,7 @@ It provides the core API logic, database handling, and middleware structure for 
 
 ##  Project Structure
 
+```
 AR-BACKEND/
 ├── src/
 │   ├── routes/          # API endpoints
@@ -18,6 +17,7 @@ AR-BACKEND/
 ├── package.json         # Project metadata and dependencies
 ├── package-lock.json    # Dependency lock file
 └── node_modules/        # Installed packages
+```
 
 ---
 
